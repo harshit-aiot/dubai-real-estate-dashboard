@@ -94,10 +94,12 @@ Location-based pricing analysis helps identify high-growth areas and potential i
 ## 📸 Dashboard Preview
 
 ### Executive Dashboard
-![Dashboard](screenshots/dashboard1.png)
+<img width="1431" height="811" alt="Screenshot 2026-06-02 062700" src="https://github.com/user-attachments/assets/6294dd89-8899-4630-97f8-1fc323bcd525" />
+
 
 ### Market Analysis Dashboard
-![Dashboard](screenshots/dashboard2.png)
+<img width="1573" height="874" alt="Screenshot 2026-06-02 062935" src="https://github.com/user-attachments/assets/644e2ddf-6b51-4fd9-b330-fc2f15e917db" />
+
 
 ---
 
